@@ -16,5 +16,5 @@ Il progetto è frutto della collaborazione di Fabio Pietrosanti, Stefano Quintar
 
 In seguito è possibile scaricare per consultazione:
 
-- [Policy Paper](https://github.com/g0v-it/Geo-AIRE/blob/main/Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.pdf)
-- [Data set di Analisi Geospaziale dati AIRE 2015 per Seggi](https://github.com/g0v-it/Geo-AIRE/blob/main/Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.ods)
+- [Policy Paper](https://github.com/g0v-it/Geo-AIRE/blob/main/Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.pdf) in pdf
+- [Data set di Analisi Geospaziale dati AIRE 2015 per Seggi](https://github.com/g0v-it/Geo-AIRE/blob/main/Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.ods) spreadsheet
